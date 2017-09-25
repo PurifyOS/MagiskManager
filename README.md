@@ -5,3 +5,10 @@ More info are written in the [Magisk Main Repo](https://github.com/topjohnwu/Mag
 ## Building Notes
 You need to install CMake and NDK to build the zipadjust library.
 There are several files required to let Magisk Manager work properly, and they can be copied by using the build script in the [Magisk Main Repo](https://github.com/topjohnwu/Magisk). These files are: `magisk_uninstaller.sh`, `util_functions.sh`, `public.certificate.x509.pem`, and `private.key.pk8` under the `app/src/main/assets` folder.
+
+## Credits
+
+**MagiskManager**
+
+* Copyright 2016-2017, John Wu (@topjohnwu)
+* All contributors and translators
